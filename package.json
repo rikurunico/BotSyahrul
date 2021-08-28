@@ -4,8 +4,11 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js",
-    "node .": "node run bot.js"
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikurunico/BotSyahrul"
   },
   "author": "nico",
   "license": "ISC",
